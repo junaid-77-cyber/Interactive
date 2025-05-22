@@ -1,7 +1,7 @@
 # Ex.08 Design of Interactive Image Gallery
 ## Name: S Junaid Sardar
 ## Register no. 212224100028
-## Date:07/05/2025
+## Date:18/05/2025
 
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
